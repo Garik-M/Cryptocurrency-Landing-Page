@@ -141,6 +141,7 @@ header p{
   border-radius: 50%;
   border: 2px solid #FFFFFF1F;
   background-color: #FFFFFF1A;
+  backdrop-filter: blur(20px);
   display: flex;
   justify-content: center;
   align-items: center; 
